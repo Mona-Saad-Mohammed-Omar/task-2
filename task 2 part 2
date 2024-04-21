@@ -1,0 +1,30 @@
+void main(){
+    int day number= 3;
+    string (day Name)= "";
+    switch (day Number){
+        case 1:
+        day Name ="suturday";
+        break;
+        case 2:
+         day Name ="sunday";
+         break;
+         case 3:
+         day Name ="monday";
+         break;
+         case 4:
+         day Name ="tuesday";
+         break;
+         case 5:
+         day Name ="wednesday";
+         break;
+         case 6:
+         day Name ="thursday";
+         break;
+         case 7:
+         day Name ="friday";
+         break;
+         defualt:
+         day Name = "invaild day";
+         break;
+         print(day name);}
+}

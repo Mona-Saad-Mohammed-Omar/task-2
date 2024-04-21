@@ -1,0 +1,10 @@
+void main(){
+    string wright weight = (>50 <90);
+    print (normal weight);
+    }
+string check weight if (weight<50){
+    print 'than';
+    }
+    else (weight>90){
+        print'thin';
+    }
